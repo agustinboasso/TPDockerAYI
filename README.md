@@ -16,6 +16,7 @@ Este README incluye **todos los pasos** necesarios para poner en marcha tu TP de
   - [6. Probar vía proxy NGINX](#6-probar-vía-proxy-nginx)
 - [Conexión con MongoDB Compass](#conexi%C3%B3n-con-mongodb-compass)
 - [Resumen de comandos clave](#resumen-de-comandos-clave)
+- [Imágenes App Funcionando](#imagenes-app-funcionando)
 
 ---
 
@@ -115,6 +116,10 @@ Para explorar la base de datos en Windows:
 2. Crea una nueva conexión y usa esta **URI**:
    ```text
    mongodb://host.docker.internal:27017/?replicaSet=rs0&directConnection=true
+
+   o
+
+   mongodb://localhost:27017/?replicaSet=rs0&directConnection=true
    ```
 3. Haz clic en **Connect**.
 4. Refresca la lista de bases; verás `rocketchat` y sus colecciones (`users`, `rooms`, `messages`, etc.).
@@ -156,3 +161,11 @@ URI: mongodb://host.docker.internal:27017/?replicaSet=rs0&directConnection=true
 ```
 
 ---
+
+## Imágenes App Funcionando
+
+![Imágenes App Funcionando](assets/app.png)
+![Imágenes App Funcionando](assets/app2.png)
+![Imágenes App Funcionando](assets/app3.png)
+![Imágenes App Funcionando](assets/app4.png)
+![Imágenes App Funcionando](assets/mongoApp.png)
