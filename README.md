@@ -1,6 +1,6 @@
 # Guía de inicio rápido: Rocket.Chat + MongoDB (Replica Set) + NGINX
 
-Este README incluye **todos los pasos** necesarios para poner en marcha tu TP de Docker: Rocket.Chat, MongoDB 6 en Replica Set y NGINX como proxy inverso. Sigue cada sección en orden.
+Este README incluye **todos los pasos** necesarios para poner en marcha Docker: Rocket.Chat, MongoDB 6 en Replica Set y NGINX como proxy inverso. Sigue cada sección en orden.
 
 ## Índice
 
